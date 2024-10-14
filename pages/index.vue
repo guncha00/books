@@ -2,7 +2,7 @@
   <div class="bg-bg">
     <header>
       <h1>Index</h1>
-      <!-- <NuxtLayout name="default"></NuxtLayout> -->
+      <!-- <NuxtLayout :name="default"></NuxtLayout> -->
     </header>
 
     <p>

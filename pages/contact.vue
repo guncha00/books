@@ -16,6 +16,7 @@ definePageMeta({
     </div>
     <NuxtLayout :name="footer">
       <p>hello it is contact!</p>
+      <p>не знаю почему так происходит</p>
     </NuxtLayout>
   </div>
 </template>
